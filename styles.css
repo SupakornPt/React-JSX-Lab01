@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.st1 {
+    background-color: antiquewhite;
+    color: blue;
+}
+
+.st2 {
+    background-color: aqua;
+    color: brown;
+}
